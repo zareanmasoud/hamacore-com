@@ -43,12 +43,12 @@
     "eject": "react-scripts eject",
     "lint:check": "eslint . --ext=js,jsx;  exit 0",
     "lint:fix": "eslint . --ext=js,jsx --fix;  exit 0",
-    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
-    "build-package-css": "node-sass src/assets/scss/hamacore-com.scss dist/material-kit-react.css",
-    "build-package": "npm run build-package-css && babel src --out-dir dist",
-    "compile-sass": "node-sass src/assets/scss/hamacore-com.scss src/assets/css/material-kit-react.css",
-    "minify-sass": "node-sass src/assets/scss/hamacore-com.scss src/assets/css/material-kit-react.min.css --output-style compressed",
-    "map-sass": "node-sass src/assets/scss/hamacore-com.scss src/assets/css/material-kit-react.css --source-map true"
+    "install:clean": "rm -rf node_modules/ && rm -rf yarn.lock && yarn install && yarn start",
+    "build-package-css": "node-sass src/assets/scss/hamacore-com.scss dist/hamacore-com.css",
+    "build-package": "yarn build-package-css && babel src --out-dir dist",
+    "compile-sass": "node-sass src/assets/scss/hamacore-com.scss src/assets/css/hamacore-com.css",
+    "minify-sass": "node-sass src/assets/scss/hamacore-com.scss src/assets/css/hamacore-com.min.css --output-style compressed",
+    "map-sass": "node-sass src/assets/scss/hamacore-com.scss src/assets/css/hamacore-com.css --source-map true"
   },
   "browserslist": {
     "production": [

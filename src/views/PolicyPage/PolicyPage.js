@@ -44,83 +44,94 @@ export default function PolicyPage(props) {
         <div>
           <div className={classes.container}>
             <GridContainer justify="center">
-              <GridItem xs={12} sm={12} md={6}>
+              <GridItem xs={12} sm={12} md={9}>
                 <div className={classes.profile}>
                   <div>
                     <img src={profile} alt="..." className={imageClasses} />
                   </div>
                   <div className={classes.name}>
-                    <h3 className={classes.title}>Privacy Policy</h3>
+                    <h3 className={classes.title}>
+                      Privacy Policy - Hamrah Mechanic
+                    </h3>
+                    <h5>
+                      Statement of confidentiality and how to protect the
+                      privacy of Hamrah Mechanic Application users
+                    </h5>
                   </div>
                 </div>
               </GridItem>
             </GridContainer>
             <div className={classes.description}>
+              <h4 className={classes.title}>Privacy Policy</h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Phasellus luctus et augue vitae elementum. Aliquam porta neque a
-                varius ornare. Praesent pretium lorem et urna luctus, et posuere
-                ligula porttitor. Nunc nec turpis nunc. Pellentesque habitant
-                morbi tristique senectus et netus et malesuada fames ac turpis
-                egestas. Nunc facilisis sodales velit, varius convallis ipsum
-                consectetur posuere. Nam molestie lectus eget lobortis pulvinar.
-                Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-                posuere cubilia curae; Fusce vitae elit diam. Morbi non luctus
-                neque. Duis et turpis ac ex varius faucibus ut at est. Proin
-                ullamcorper pharetra felis, eu gravida mi sagittis sed. Proin
-                finibus eleifend pretium. Vestibulum malesuada diam at malesuada
-                imperdiet. Aenean vel lorem vitae erat pharetra consequat.
-                Mauris tincidunt justo nec dolor rutrum, in tincidunt neque
-                congue. Pellentesque nec ultrices enim, eget lobortis justo. Sed
-                semper eros a fermentum ultricies. Integer sed velit tempus,
-                ullamcorper arcu ac, consequat orci. Vestibulum imperdiet in
-                erat nec feugiat. Nulla suscipit magna metus, nec cursus lectus
-                interdum vehicula. Cras dignissim ipsum id risus pulvinar, sed
-                elementum enim semper. Etiam nec neque ac felis convallis
-                feugiat nec ac eros. Duis in gravida dui. Morbi faucibus
-                accumsan magna commodo gravida. Suspendisse vel ipsum id nunc
-                tristique viverra vitae nec magna. Nunc est nisl, accumsan vel
-                vestibulum eget, imperdiet sed felis. In convallis viverra nisi,
-                at consequat felis feugiat eu. Donec varius pulvinar erat, vitae
-                cursus nisi convallis porta. Duis placerat orci mattis nulla
-                aliquet maximus. Morbi non ligula aliquam, eleifend sapien sed,
-                volutpat turpis. Mauris mollis ipsum ipsum, vitae commodo neque
-                euismod non. Phasellus metus nibh, volutpat eget auctor in,
-                laoreet eget leo. Fusce vitae lectus sit amet eros ullamcorper
-                varius. Quisque eget purus sem. Proin vehicula nisl vitae arcu
-                feugiat hendrerit molestie id tellus. Pellentesque faucibus
-                egestas tempor. Vivamus convallis nunc et eleifend mattis.
-                Pellentesque vel orci eros. Duis id enim id massa varius
-                posuere. Sed tempor mollis enim eu euismod. Orci varius natoque
-                penatibus et magnis dis parturient montes, nascetur ridiculus
-                mus. Praesent et luctus nulla. Vivamus nibh neque, vulputate ac
-                tincidunt a, lobortis eget neque. Integer vehicula, velit vel
-                venenatis dapibus, sapien neque eleifend augue, quis euismod
-                quam nisi at leo. Nunc nec velit auctor, mattis dolor vel,
-                commodo augue. Suspendisse potenti. Morbi sed tellus cursus,
-                iaculis lorem in, vestibulum arcu. Pellentesque id neque risus.
-                In sapien magna, sagittis id sollicitudin at, vestibulum in ex.
-                Nullam ornare sapien ac sem porta, et sollicitudin mauris
-                feugiat. Donec interdum varius diam, a laoreet mi rhoncus quis.
-                In eu rutrum nisi, eu commodo magna. Integer tincidunt velit
-                neque, at imperdiet libero faucibus at. Pellentesque sit amet
-                quam et purus gravida congue vel eget purus. Nunc tristique
-                porta tempus. Nam in hendrerit ipsum, vel laoreet nibh.
-                Pellentesque porta nunc at finibus sodales. Cras posuere maximus
-                odio, et rhoncus ligula euismod eget. Pellentesque mattis
-                egestas purus eget imperdiet. Duis dignissim arcu non arcu
-                pulvinar hendrerit nec vel nunc. Suspendisse potenti. Sed
-                malesuada, arcu at congue blandit, ante lorem tincidunt purus,
-                ac viverra magna massa eget dui. Nullam in venenatis quam. Ut
-                imperdiet justo a felis ultrices ultricies. Cras vel magna
-                volutpat, ullamcorper justo ac, pellentesque lectus. Curabitur
-                malesuada, velit nec venenatis varius, ex mauris congue eros, eu
-                auctor nulla ante vitae augue. Sed auctor auctor diam, quis
-                volutpat tellus venenatis ac. Aenean erat tortor, laoreet id
-                rutrum eget, tempus sodales odio. Lorem ipsum dolor sit amet,
-                consectetur adipiscing elit. Mauris suscipit consequat felis,
-                aliquet dignissim nisl varius sit amet. Nam sed sapien pretium
-                felis lacinia pellentesque id et enim.
+                Hamrah Mechanic is committed to protecting the privacy of all
+                site visitors. As a result, this privacy statement is made as
+                part of our commitment to your privacy. This privacy statement
+                has been prepared on how to use and the usage of your personal
+                information in order to perform services on the site, tools and
+                mobile application along with Hamrah Mechanic. By accepting the
+                Privacy Policy and the User Registration Terms, you expressly
+                consent to the collection, storage, use and disclosure of your
+                personal information in accordance with what is stated in the
+                Privacy Policy.
+              </p>
+              <p>
+                As a user of Hamrah Mechanic App, you can use our App without
+                entering any personal information. The user who enters the
+                information on the App agrees to the transfer and storage of
+                this information on the servers of the mechanic.
+              </p>
+              <p>
+                The information that is stored on the Hamrah Mechanic App is:
+              </p>
+              <ul>
+                <li>Email address</li>
+                <li>Phone number</li>
+                <li>IP address and standard login information</li>
+              </ul>
+              <h4 className={classes.title}>Disclosure of information</h4>
+              <p>
+                User information will not be disclosed to any third party or
+                entity without their express consent. This information is used
+                only to improve Hamrah mechanic services or Hamrah mechanic
+                advertisements.
+              </p>
+              <p>
+                You will be responsible for maintaining the password to use the
+                profile and other features of the App, so do not share the
+                password with anyone.
+              </p>
+              <p>
+                At its sole discretion, your personal information may be used or
+                disclosed in response to legal or security requests. Therefore,
+                with the knowledge of this section, provide your information to
+                this App.
+              </p>
+              <h4 className={classes.title}>
+                Information shared with Hamrah mechanic
+              </h4>
+              <p>
+                Your username is the only information that is visible to the
+                public. Contact number and email address are not visible to the
+                public in any way.
+              </p>
+              <h4 className={classes.title}>Security measures</h4>
+              <p>
+                We use a variety of security measures to protect your
+                information from unauthorized access, illegal activity,
+                accidental damage, destruction and tampering. You have the right
+                to be aware of your information stored and to ask us to make
+                changes to it to keep it accurate and up to date.
+              </p>
+              <h4 className={classes.title}>Changes to the Privacy Policy</h4>
+              <p>
+                Any new changes to our privacy policy will be posted on the App
+                and site.
+              </p>
+              <p>
+                All modified items will be implemented automatically as soon as
+                they are posted on the App and site, and you have already agreed
+                and committed to these policies.
               </p>
             </div>
           </div>

@@ -15,8 +15,8 @@ const profilePageStyle = {
   },
   description: {
     margin: "1.071rem auto 0",
-    maxWidth: "600px",
-    color: "#999",
+    maxWidth: "900px",
+    // color: "#999",
     textAlign: "justify !important",
     height: "1000px",
     overflowY: "scroll",
