@@ -30,7 +30,7 @@ export default function Footer(props) {
           <List className={classes.list}>
             <ListItem className={classes.inlineBlock}>
               <a
-                href="/support"
+                href="/hamacore-com/#/support"
                 className={classes.block}
               >
                 Contact us
@@ -38,7 +38,7 @@ export default function Footer(props) {
             </ListItem>
             <ListItem className={classes.inlineBlock}>
               <a
-                href="/policy"
+                href="/hamacore-com/#/policy"
                 className={classes.block}
               >
                 Privacy Policy
