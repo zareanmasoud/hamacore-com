@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "899c5ab9d5dcbec1a5942967ae9671dd",
+    "revision": "2f7785af832d845239702afc41b43d13",
     "url": "/hamacore-com/index.html"
   },
   {
-    "revision": "79551306342a5f6ca012",
+    "revision": "f5ef37ed407469efda9d",
     "url": "/hamacore-com/static/css/main.6eb85d9a.chunk.css"
   },
   {
-    "revision": "bb67abdc2d8b7214bdc6",
-    "url": "/hamacore-com/static/js/2.64ce7ea3.chunk.js"
+    "revision": "0baa09429ecc42c40e56",
+    "url": "/hamacore-com/static/js/2.90e08889.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/hamacore-com/static/js/2.64ce7ea3.chunk.js.LICENSE.txt"
+    "url": "/hamacore-com/static/js/2.90e08889.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79551306342a5f6ca012",
-    "url": "/hamacore-com/static/js/main.a6d9f580.chunk.js"
+    "revision": "f5ef37ed407469efda9d",
+    "url": "/hamacore-com/static/js/main.6a7a5430.chunk.js"
   },
   {
     "revision": "dcf7a91ad6ab62b596d5",
