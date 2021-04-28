@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hamacore-com/precache-manifest.72484f61217513850de2b56de91d5b81.js"
+  "/hamacore-com/precache-manifest.535b4d3b871e71ab44c04743968eb175.js"
 );
 
 self.addEventListener('message', (event) => {
