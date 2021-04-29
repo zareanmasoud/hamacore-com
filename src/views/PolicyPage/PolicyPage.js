@@ -77,51 +77,24 @@ export default function PolicyPage(props) {
               </p>
               <p>
                 As a user of Hamrah Mechanic App, you can use our App without
-                entering any personal information. The user who enters the
-                information on the App agrees to the transfer and storage of
-                this information on the servers of the mechanic.
+                entering any personal information and the App does not collect any data from users.
               </p>
-              <p>
-                The information that is stored on the Hamrah Mechanic App is:
-              </p>
-              <ul>
-                <li>Email address</li>
-                <li>Phone number</li>
-                <li>IP address and standard login information</li>
-              </ul>
               <h4 className={classes.title}>Disclosure of information</h4>
               <p>
                 User information will not be disclosed to any third party or
-                entity without their express consent. This information is used
-                only to improve Hamrah mechanic services or Hamrah mechanic
-                advertisements.
-              </p>
-              <p>
-                You will be responsible for maintaining the password to use the
-                profile and other features of the App, so do not share the
-                password with anyone.
-              </p>
-              <p>
-                At its sole discretion, your personal information may be used or
-                disclosed in response to legal or security requests. Therefore,
-                with the knowledge of this section, provide your information to
-                this App.
+                entity without their express consent.
               </p>
               <h4 className={classes.title}>
                 Information shared with Hamrah mechanic
               </h4>
               <p>
-                Your username is the only information that is visible to the
-                public. Contact number and email address are not visible to the
-                public in any way.
+                There is no information that is collected from users or be visible to the public.
               </p>
               <h4 className={classes.title}>Security measures</h4>
               <p>
                 We use a variety of security measures to protect your
-                information from unauthorized access, illegal activity,
-                accidental damage, destruction and tampering. You have the right
-                to be aware of your information stored and to ask us to make
-                changes to it to keep it accurate and up to date.
+                information (if there was) from unauthorized access, illegal activity,
+                accidental damage, destruction and tampering.
               </p>
               <h4 className={classes.title}>Changes to the Privacy Policy</h4>
               <p>
