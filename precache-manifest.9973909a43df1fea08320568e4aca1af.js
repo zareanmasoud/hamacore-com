@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16c169ab541aed54aed8d970b3e9e796",
+    "revision": "638aa5ca6eb9257052a7b18b9d699063",
     "url": "/hamacore-com/index.html"
   },
   {
-    "revision": "35e523c5f11d61b84897",
+    "revision": "f90a7936a2326c00928d",
     "url": "/hamacore-com/static/css/main.6eb85d9a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hamacore-com/static/js/2.90e08889.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35e523c5f11d61b84897",
-    "url": "/hamacore-com/static/js/main.490f3284.chunk.js"
+    "revision": "f90a7936a2326c00928d",
+    "url": "/hamacore-com/static/js/main.ddb86ecd.chunk.js"
   },
   {
     "revision": "dcf7a91ad6ab62b596d5",
@@ -36,20 +36,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hamacore-com/static/media/privacy-bg.baf6b40a.jpg"
   },
   {
-    "revision": "fc55445889a41f2e1eb72e7ab9f04cfe",
-    "url": "/hamacore-com/static/media/screenshot0.fc554458.png"
+    "revision": "fe0c69b71073e3c8ab1d08b624d6b116",
+    "url": "/hamacore-com/static/media/screenshot0.fe0c69b7.png"
   },
   {
-    "revision": "53a2c4dc90bf1f939c579cbe1b23c91d",
-    "url": "/hamacore-com/static/media/screenshot1.53a2c4dc.png"
+    "revision": "11391126fe9838d4e7564a3603af6a1c",
+    "url": "/hamacore-com/static/media/screenshot1.11391126.png"
   },
   {
-    "revision": "d98f4830b612e35831f34e117768cad2",
-    "url": "/hamacore-com/static/media/screenshot2.d98f4830.png"
+    "revision": "a212a7ce7848357e97a235de995c6762",
+    "url": "/hamacore-com/static/media/screenshot2.a212a7ce.png"
   },
   {
-    "revision": "c89c67d0a734079d7cdf5320cfcd2e0e",
-    "url": "/hamacore-com/static/media/screenshot3.c89c67d0.png"
+    "revision": "48cc9723192f2cf001931c5a35d36b2e",
+    "url": "/hamacore-com/static/media/screenshot3.48cc9723.png"
   },
   {
     "revision": "df8fd3efcd662b64b44de07f351c838b",
